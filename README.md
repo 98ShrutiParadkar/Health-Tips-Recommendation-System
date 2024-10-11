@@ -21,6 +21,7 @@ These attributes are preprocessed to convert them into numerical format, enablin
  
 ## Scope of the Solution
 
+![tipa drawio](https://github.com/user-attachments/assets/781aa5be-d077-4df7-bcc4-e96f23251f92)
 
 #### In-Scope: 
 
