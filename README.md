@@ -1,7 +1,7 @@
 
 # Health Tips Recommendation System
 
-The Healthcare recommendation system is designed to provide personalized health tips to users based on their unique profiles, which include attributes such as age, gender, and medical conditions.
+The Healthcare Recommendation System is designed to provide personalized health tips to users based on their unique profiles, which include attributes such as age, gender, and medical conditions.
 It leverages a **content-based filtering** approach, using **Cosine Similarity** to compare users’ profiles (age, gender, and medical condition) with similar profiles in the dataset. Based on this similarity, the system recommends relevant health tips to users.
 
 ![Tip](https://github.com/user-attachments/assets/69881b60-ea47-4435-a753-7f177a950537)
